@@ -34,7 +34,7 @@ TARGET_SCREEN_WIDTH := 1080
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := begonia
-PRODUCT_NAME := lineage_begonia
+PRODUCT_NAME := arrow_begonia
 PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := Redmi Note 8 Pro
 PRODUCT_MANUFACTURER := Xiaomi
